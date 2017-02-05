@@ -5,5 +5,4 @@ A small collection of uncommon iOS runtime headers.
 
 Currently included:
 
-* Bridge.app (Apple Watch companion app)
-* BridgePreferences.framework (one of the private frameworks powering Bridge.app)
+* A shitload of Apple Watch frameworks and the companion bridge app
