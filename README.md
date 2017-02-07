@@ -7,4 +7,5 @@ Currently included:
 
 * SpringBoard
 * StoreKitUI.framework
+* MobileSMS.app and ChatKit.framework
 * A shitload of Apple Watch frameworks and the companion bridge app
